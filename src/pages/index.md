@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 일단 정리하기
 hide_title: true
 sections:
   - section_id: hero
